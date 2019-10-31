@@ -13,9 +13,10 @@ namespace MVC_CRUD.Migrations
                 {
                     EmployeeId = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
-                    nvarchar250 = table.Column<string>(name: "nvarchar(250)", nullable: false),
-                    nvarchar10 = table.Column<string>(name: "nvarchar(10)", nullable: true),
-                    nvarchar100 = table.Column<string>(name: "nvarchar(100)", nullable: true)
+                    FullName = table.Column<string>(type: "nvarchar(250)", nullable: false),
+                    EmpCode = table.Column<string>(type: "nvarchar(10)", nullable: true),
+                    Position = table.Column<string>(type: "nvarchar(100)", nullable: true),
+                    OfficeLocation = table.Column<string>(type: "nvarchar(100)", nullable: true)
                 },
                 constraints: table =>
                 {

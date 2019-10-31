@@ -25,17 +25,17 @@ namespace MVC_CRUD.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("EmpCode")
-                        .HasColumnName("nvarchar(10)");
+                        .HasColumnType("nvarchar(10)");
 
                     b.Property<string>("FullName")
                         .IsRequired()
-                        .HasColumnName("nvarchar(250)");
+                        .HasColumnType("nvarchar(250)");
 
                     b.Property<string>("OfficeLocation")
-                        .HasColumnName("nvarchar(100)");
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("Position")
-                        .HasColumnName("nvarchar(100)");
+                        .HasColumnType("nvarchar(100)");
 
                     b.HasKey("EmployeeId");
 
