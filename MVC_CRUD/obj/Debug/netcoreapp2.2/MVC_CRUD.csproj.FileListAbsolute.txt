@@ -5,6 +5,9 @@ C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bi
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.runtimeconfig.json
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.runtimeconfig.dev.json
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.dll
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.pdb
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.Views.dll
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.Views.pdb
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.csprojAssemblyReference.cache
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.RazorAssemblyInfo.cache
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.RazorAssemblyInfo.cs
@@ -23,10 +26,12 @@ C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\ob
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.RazorTargetAssemblyInfo.cache
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.RazorTargetAssemblyInfo.cs
-C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.pdb
-C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.Views.dll
-C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.Views.pdb
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.Views.pdb
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.dll
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.pdb
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.csproj.CopyComplete
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
