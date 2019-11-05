@@ -8,7 +8,6 @@ C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bi
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.pdb
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.Views.dll
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\bin\Debug\netcoreapp2.2\MVC_CRUD.Views.pdb
-C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.csprojAssemblyReference.cache
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.RazorAssemblyInfo.cache
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.RazorAssemblyInfo.cs
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.AssemblyInfoInputs.cache
@@ -16,6 +15,11 @@ C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\ob
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.TagHelpers.input.cache
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.TagHelpers.output.cache
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.RazorCoreGenerate.cache
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
@@ -30,8 +34,3 @@ C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\ob
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.dll
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.pdb
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.csproj.CopyComplete
-C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
-C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Delete.cshtml.g.cs
-C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
-C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
-C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
