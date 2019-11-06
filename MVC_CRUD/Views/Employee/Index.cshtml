@@ -1,14 +1,14 @@
 ﻿@model IEnumerable<MVC_CRUD.Models.Employee>
+
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Employee Register";
 }
 <div class="text-center">
     <h1 class="display-4">@ViewData["Title"]</h1>
 </div>
-<p>
-    <a asp-action="Create" class="btn btn-primary">Create New</a>
-</p>
-<table class="table">
+
+
+<table class="table table-hover">
     <thead>
         <tr>
             <th>
@@ -23,7 +23,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.OfficeLocation)
             </th>
-            <th></th>
+            <th>
+                <a asp-action="AddOrEdit" class="btn btn-outline-success"><i class="far fa-plus-square"></i> Employee</a>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -43,9 +45,8 @@
                     @Html.DisplayFor(modelItem => item.OfficeLocation)
                 </td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.EmployeeId">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.EmployeeId">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.EmployeeId">Delete</a>
+                    <a asp-action="AddOrEdit" asp-route-id="@item.EmployeeId"><i class="fa fa-marker fa-lg"></i></a>
+                    <a asp-action="Delete" asp-route-id="@item.EmployeeId" class="text-danger ml-1" onclick="return confirm('Are you sure to delete this record?')"><i class="fa fa-trash-alt fa-lg"></i></a>
                 </td>
             </tr>
         }
