@@ -1,9 +1,7 @@
 ﻿@model MVC_CRUD.Models.Employee
-
 @{
     ViewData["Title"] = "Create";
 }
-
 <h4>Employee Form</h4>
 <hr />
 <div class="row">
@@ -44,9 +42,6 @@
         </form>
     </div>
 </div>
-
-
-
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

@@ -24,6 +24,7 @@ namespace MVC_CRUD.Controllers
             return View(await _context.Employees.ToListAsync());
         }
 
+
         // GET: Employee/Create
         public IActionResult AddOrEdit(int id = 0)
         {
@@ -51,22 +52,15 @@ namespace MVC_CRUD.Controllers
             }
             return View(employee);
         }
+
+
         // GET: Employee/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var employee = await _context.Employees
-                .FirstOrDefaultAsync(m => m.EmployeeId == id);
-            if (employee == null)
-            {
-                return NotFound();
-            }
-
-            return View(employee);
+            var employee = await _context.Employees.FindAsync(id);
+            _context.Employees.Remove(employee);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
     }
 }
