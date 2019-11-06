@@ -31,3 +31,5 @@ C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\ob
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.dll
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.pdb
 C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.csproj.CopyComplete
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\MVC_CRUD.csprojAssemblyReference.cache
+C:\Users\MSI GT72VR 6RE DMPTB\Documents\GitHub\ASP.NET-CORE-MVC_CRUD\MVC_CRUD\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.cshtml.g.cs
